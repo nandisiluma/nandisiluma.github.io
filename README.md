@@ -185,44 +185,44 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>This section includes a detailed summary of my projects and experiences.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6">
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
-              <h4>Alice Barkley</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <h4>Nandipa Siluma</h4>
+              <p><em>Innovative and passionate engineering student with a goal to decentralize technology and its applications. </em></p>
               <p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>909 Foster St, Evanston, IL</li>
+                <li>(872) 235-3124</li>
+                <li>nandisiluma2023@u.northwestern.edu</li>
               </ul>
               </p>
             </div>
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>Bachelor of Sc. Computer Science</h4>
+              <h5>2019 - 2023</h5>
+              <p><em>Northwetsern University, Evanston, IL</em></p>
+              <p>Say somthing about my college years and experiences so far</p>
             </div>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>High School Diploma</h4>
+              <h5>2013 - 2018</h5>
+              <p><em>Maranatha Adventist High School</em></p>
+              <p>high school accomplishments and experiences</p>
             </div>
           </div>
           <div class="col-lg-6">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Product Manager Intern</h4>
+              <h5>June 2021 - August 2021</h5>
+              <p><em>Remote </em></p>
               <p>
               <ul>
                 <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
@@ -233,7 +233,7 @@
               </p>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
+              <h4>Research Lab Intern</h4>
               <h5>2017 - 2018</h5>
               <p><em>Stepping Stone Advertising, New York, NY</em></p>
               <p>
@@ -256,40 +256,40 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Experiences</h2>
+          <p>passion projects and other work experiences.</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4 class="title"><a href="">Customized walking device</a></h4>
+              <p class="description">Customized walker for a patient with bilateral above-knee amputations</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4 class="title"><a href="">MedChat</a></h4>
+              <p class="description">A communication device for elder patients</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4 class="title"><a href="">Emzini weCode</a></h4>
+              <p class="description">Education program that will improve computer science education in Zimbabwe </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-world"></i></div>
+              <div class="icon"><i class="ColorStack App"></i></div>
               <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p class="description">An app that will allow students to continue interacting with each other post the ColorStack Sprout program</p>
             </div>
           </div>
 
@@ -304,7 +304,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Pictures and schreenshots of the projects I've done</p>
         </div>
 
         <div class="row">
@@ -541,15 +541,15 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>My contact details***</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-4">
             <div class="contact-about">
-              <h3>Lonely</h3>
-              <p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+              <h3>Nandi</h3>
+              <p>abfbhjbfhjrbfn</p>
               <div class="social-links">
                 <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
                 <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
@@ -563,17 +563,17 @@
             <div class="info">
               <div class="d-flex align-items-center">
                 <i class="bi bi-geo-alt"></i>
-                <p>A108 Adam Street<br>New York, NY 535022</p>
+                <p>909 Foster St<br> Evanston, IL 60201</p>
               </div>
 
               <div class="d-flex align-items-center mt-4">
                 <i class="bi bi-envelope"></i>
-                <p>info@example.com</p>
+                <p>nandisiluma2023@u.northwestern.edu</p>
               </div>
 
               <div class="d-flex align-items-center mt-4">
                 <i class="bi bi-phone"></i>
-                <p>+1 5589 55488 55s</p>
+                <p>+1 872 235 3124</p>
               </div>
 
             </div>
