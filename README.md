@@ -288,7 +288,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="ColorStack App"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
+              <h4 class="title"><a href="">ColorStack App</a></h4>
               <p class="description">An app that will allow students to continue interacting with each other post the ColorStack Sprout program</p>
             </div>
           </div>
